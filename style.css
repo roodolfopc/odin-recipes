@@ -1,0 +1,28 @@
+* {
+  align-items: 0;
+  margin: 0;
+  text-align: center;
+  text-decoration: none;
+}
+
+body {
+  background-color: rgb(199, 198, 198);
+}
+
+h1 {
+  font-weight: 900;
+  padding: 20px 20px;
+}
+
+p {
+  font-weight: 400;
+  padding: 10px 20px;
+}
+
+img {
+  padding: 10px 20px;
+}
+
+a {
+  font-size: large;
+}
